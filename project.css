@@ -1,0 +1,153 @@
+
+.logo{
+    height: 20px;
+    width: 100px;
+}
+.color{
+    color:black;
+}
+.slide_images{
+    height:400px;
+    width:38vw;
+    margin-left:300px;
+    border-radius: 5%;
+}
+.containerEl{
+    background-image: url("background-fingerprint-neon_23-2148360988.avif");
+    /* background-color: rgb(59, 204, 192); */
+    height:100vh;
+}
+.footer-section{
+    background-color: rgb(7, 7, 40);
+}
+.contact-icons{
+    background-color: gray;
+    border-radius: 15px;
+    height:40px;
+    width:40px;
+    text-align: center;
+    padding-top: 5px;
+    margin-right:20px ;
+}
+.footer-section-address{
+    color:white;
+}
+.footer-section-mail-id{
+    color:rgb(138, 139, 138);
+}
+/* .product-section{
+    height:100vh;
+} */
+.home-section{
+    height:100vh;
+}
+
+.choose-us-heading{
+    /* font-family: "consolas"; */
+    font-size:40px;
+    font-weight: bold;
+    color:rgb(84, 172, 64)69, 69, 125,15, 15, 56,68, 68, 140;
+}
+.home-section-heading{
+    color:rgb(78, 78, 158);
+    /* text-decoration: underline; */
+    font-size: "roboto";
+    font-style:italic;
+    font-weight:bold;
+
+
+}
+.home-section-title{
+    color:white;
+    font-size:60px;
+    font-weight:bold;
+    padding-bottom:10px;
+}
+.home-section-title-span{
+    color:rgb(244, 248, 3);
+
+    
+}
+.product-section-heading{
+    color:rgb(78, 78, 158);
+    /* text-decoration: underline; */
+    font-size: "roboto";
+    font-style:italic;
+    font-weight:bold;
+
+
+}
+
+.why-choose-heading{
+    color:rgb(18, 122, 143);
+    font-weight:bold;
+    /* text-decoration: underline; */
+    font-size: "roboto";
+    font-style:italic;
+
+}
+.choose-section-discription{
+    font-weight: bold;
+    margin-left:30px;
+}
+.discription-span{
+    font-weight:normal;
+}
+.choose-section-img{
+    height:400px;
+    width:400px;
+    margin-right:20px;
+    padding-left:10px;
+
+}
+.product-section-img{
+    height:300px;
+    width:300px;
+}
+.product-name{
+    font-weight: bold;
+}
+.over-view{    
+        font-style:bold;
+}
+.contact-Container{
+    margin-top:10%;
+    margin-bottom:10%;
+    
+}
+.product-card{
+    border-color: #cbd2d9;
+    border-width: 1px;
+    border-radius: 5px;
+    border-style: solid;
+}
+.A400-overview-span{
+    font-weight: bold;
+    color:#1b1818;
+    font-size:20px;
+}
+.over-view-heading{
+    color:rgb(2, 9, 71);
+    font-weight: bold;
+    font-size:40px;
+}
+.overView{
+    height:100vh;
+    padding-top:10%;
+    background-image: url("upload-an-image-66aa20-thumb.jpg");
+    background-size: cover;
+    padding-left:10%;
+}
+.overViewImage{
+    height:400px;
+    width:400px;
+    border-radius:10%;
+}
+.overView-back-btn{
+    height:50px;
+    width:100px;
+}
+.over-section-card{
+    padding-left:10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
